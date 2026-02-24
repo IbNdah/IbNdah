@@ -88,4 +88,4 @@ When evaluating an architecture, I assess:
 
 ## 📫 Connect
 
-LinkedIn: (linkedin.com/in/ibrahim-ndah)
+LinkedIn: www.linkedin.com/in/ibrahim-ndah
