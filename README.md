@@ -1,6 +1,6 @@
 # Ibrahim Ndah  
 Azure Solutions Architect | Security & Enterprise Architecture Focus  
-
+Building secure and governed Azure architectures for enterprise-scale environments.
 ---
 
 ## 🎯 Professional Positioning
