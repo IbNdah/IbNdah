@@ -1,30 +1,33 @@
 # Ibrahim Ndah
 
-### Cloud Solutions Architect
+## Cloud Solutions Architect
 
-*Architecting secure, scalable and production-inspired cloud platforms on Microsoft Azure.*
+*Designing secure, scalable and production-inspired Microsoft Azure platforms through Enterprise Architecture, Infrastructure as Code and Event-Driven Systems.*
+
+<p align="left">
 
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![AKS](https://img.shields.io/badge/Azure_Kubernetes_Service-326CE5?logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+</p>
 
 ---
 
 # 👋 About Me
 
-I am a Cloud Solutions Architect with a background in the automotive industry and a passion for designing secure, scalable and production-inspired cloud architectures on Microsoft Azure.
+I am a Cloud Solutions Architect with a background in automotive systems engineering and a passion for designing secure, scalable and production-inspired cloud platforms on Microsoft Azure.
 
-My GitHub is more than a collection of repositories—it is an engineering portfolio documenting my journey through enterprise cloud architecture, Infrastructure as Code, cloud-native applications and event-driven platforms.
+My GitHub serves as an **Architecture Portfolio**, documenting practical case studies across Azure infrastructure, secure networking, cloud-native platforms, event-driven systems and IoT architectures.
 
-Each repository represents a practical architecture case study, documenting architecture decisions, design trade-offs and implementation patterns inspired by real enterprise environments.
+Each repository explores architectural decisions, design trade-offs and implementation patterns inspired by real enterprise environments.
 
 ---
 
-# 📌 Portfolio Overview
-
-This portfolio reflects a progressive journey from infrastructure automation to enterprise cloud architecture through production-inspired case studies.
+# 🏛 Architecture Journey
 
 ```text
 Azure Infrastructure
@@ -33,115 +36,70 @@ Azure Infrastructure
 Secure Connectivity
         │
         ▼
-Event-Driven Microservices
+Cloud-Native Platforms
         │
         ▼
-Azure IoT Platforms
+Event-Driven IoT
         │
         ▼
 Enterprise Cloud Architecture
 ```
 
+Each project represents a step in this journey while focusing on a different architectural domain.
+
 ---
 
-# 🏛 Architecture Philosophy
+# 🧭 Architecture Philosophy
 
-I believe cloud architecture is not only about deploying services—it is about designing platforms that remain secure, scalable, observable and maintainable throughout their lifecycle.
-
-Every architecture I design is guided by the following principles:
+Every architecture in this portfolio is guided by the same engineering principles:
 
 - Security by Design
-- Governance First
 - Infrastructure as Code
-- Event-Driven Architecture
+- Cloud-Native Architecture
+- Event-Driven Systems
 - Observability First
-- Cloud-Native Services
 - Automation
+- Governance
 - Continuous Improvement
 
 ---
 
-# 🏗 Featured Projects
+# 🚀 Architecture Portfolio
 
-## 🚗 [EV Fleet Monitoring Platform](https://github.com/IbNdah/ev-fleet-monitoring-platform)
-
-An end-to-end Azure IoT platform simulating a connected electric vehicle fleet through a production-inspired event-driven architecture.
-
-**Key Architecture Concepts**
-
-- Azure IoT Hub
-- Azure Functions (Serverless)
-- MQTT Telemetry Pipeline
-- Event-Driven Architecture
-- Cosmos DB
-- Infrastructure as Code (Terraform)
-- End-to-End Observability
-- Azure Monitor
-- Application Insights
-- Grafana Dashboards
+| Project | Focus | Technologies |
+|----------|-------|--------------|
+| 🚗 **[EV Fleet Monitoring Platform](https://github.com/IbNdah/ev-fleet-monitoring-platform)** | Azure IoT & Serverless Platform | Azure IoT Hub • Azure Functions • Terraform • Cosmos DB • Grafana |
+| 📚 **[ReadIt – Azure Event-Driven Microservices](https://github.com/IbNdah/readit-azure-cloud-architecture)** | Cloud-native Platform | AKS • Azure Service Bus • OpenTelemetry • Application Insights |
+| 🔐 **[Azure Secure Connectivity](https://github.com/IbNdah/azure-secure-connectivity-architecture)** | Secure Networking | Bicep • Azure Bastion • Load Balancer • Availability Zones |
+| 🖥 **[Azure Virtual Machine Deployment](https://github.com/IbNdah/azure-vm-deployment-lab)** | Infrastructure Fundamentals | Azure VM • Virtual Networking • Security |
 
 ---
 
-## 📚 [ReadIt – Azure Cloud Architecture](https://github.com/IbNdah/readit-azure-cloud-architecture)
+# ☁ Architecture Domains
 
-A production-inspired Azure microservices platform designed to explore event-driven architectures, distributed systems operations and cloud-native observability through hands-on engineering challenges.
+This portfolio currently explores the following Azure architecture domains:
 
-Key Architecture Concepts
-
-- Azure Kubernetes Service (AKS)
-- Event-Driven Microservices
-- Azure Service Bus
-- Infrastructure as Code (Terraform)
+- Azure Infrastructure
+- Infrastructure as Code
+- Secure Connectivity
+- Enterprise Networking
+- Cloud-native Platforms
 - Kubernetes Operations
-- OpenTelemetry & Application Insights
-- Azure Monitor
-- Resilience & Dead Letter Queue (DLQ)
-- Cloud-native Observability
-- GitHub Actions CI/CD
-
----
-
-## 🌐 [Azure Secure Connectivity](https://github.com/IbNdah/azure-secure-connectivity-architecture)
-
-Production-inspired Azure infrastructure demonstrating secure connectivity, high availability and Infrastructure as Code through enterprise networking and security best practices.
-
-Key Architecture Concepts
-
-- Infrastructure as Code (Biceps)
-- Azure Bastion
-- Azure Load Balancer
-- Availability Zones
-- Virtual Networks
-- Network Security Groups (NSG)
-- Secure Administrative Access
-- High Availability
-- Defense-in-Depth
-- Azure Networking
-
----
-
-## 🖥 [Azure VM Deployment Lab](https://github.com/IbNdah/azure-vm-deployment-lab)
-
-A hands-on Azure infrastructure project demonstrating the deployment of a Windows Virtual Machine within a custom Virtual Network, following cloud infrastructure and networking best practices.
-
-**Key Architecture Concepts**
-
-- Microsoft Azure Infrastructure
-- Azure Virtual Machines
-- Virtual Networks (VNet)
-- Resource Organization
-- Infrastructure Best Practices
+- Event-Driven Systems
+- Azure IoT
+- Observability
+- Production-inspired Architecture
 
 ---
 
 # 💻 Technical Expertise
 
-| Domain | Technologies |
-|---------|--------------|
-| ☁ **Cloud Platform** | Microsoft Azure, Azure Functions, Azure IoT Hub, Cosmos DB, Azure Monitor, Application Insights, Azure Key Vault |
-| ⚙ **Infrastructure & DevOps** | Terraform, GitHub Actions, Docker, Linux, Git |
-| 💻 **Development** | Python, REST APIs, MQTT, JSON, PowerShell |
-| 🏛 **Architecture** | Cloud Architecture, Infrastructure as Code, Event-Driven Systems, Cloud-Native Design, Enterprise Networking, Observability, Azure Well-Architected Framework |
+| Domain | Focus |
+|---------|-------|
+| ☁ Cloud | Microsoft Azure • Azure Functions • Azure IoT Hub • AKS • Cosmos DB |
+| ⚙ Infrastructure | Bicep • Terraform • Docker • GitHub Actions |
+| 🏗 Architecture | Enterprise Cloud • Event-Driven • Secure Networking • Observability |
+| 💻 Development | Python • REST APIs • MQTT |
 
 ---
 
@@ -155,37 +113,37 @@ A hands-on Azure infrastructure project demonstrating the deployment of a Window
 
 # 🚀 Currently Exploring
 
-I am currently expanding my expertise in:
-
 - Azure Landing Zones
-- Kubernetes (AKS)
 - Platform Engineering
-- Enterprise Architecture Patterns
-- FinOps
+- Kubernetes (AKS)
 - Azure Well-Architected Framework
+- FinOps
+- Enterprise Design Patterns
 
 ---
 
-# 📖 Engineering Portfolio
+# 📖 Documentation
 
-This GitHub serves as an engineering portfolio showcasing production-inspired architecture case studies across:
+Every repository follows a common **Architecture Case Study** structure covering:
 
-- Cloud Architecture
-- Infrastructure as Code
-- Enterprise Networking
-- Cloud-Native Applications
-- Event-Driven Systems
-- Observability
-- Technical Documentation
-- Architecture Decision Records (ADR)
+- Executive Summary
+- Business Context
+- Architecture Overview
+- Design Decisions
+- Trade-Off Analysis
+- Security Assessment
+- Production Evolution
+- Lessons Learned
+
+This approach reflects how architecture is documented and communicated in enterprise environments.
 
 ---
 
 # 🎯 Mission
 
-My objective is to continuously evolve as a Cloud Solutions Architect by designing production-inspired Azure solutions that combine architecture best practices, automation, security and operational excellence.
+My goal is to design secure, scalable and production-inspired Microsoft Azure solutions while continuously expanding my expertise in enterprise cloud architecture.
 
-I believe great architectures are built through continuous learning, thoughtful design decisions and clear technical documentation.
+I believe that successful cloud platforms are built through thoughtful design decisions, continuous learning and clear technical documentation.
 
 ---
 
@@ -196,6 +154,3 @@ I believe great architectures are built through continuous learning, thoughtful 
 
 - 📧 **Email**  
   ndah@web.de
-
-- 🌍 **Portfolio**  
-  *Coming Soon*
