@@ -122,10 +122,8 @@ A foundational Infrastructure-as-Code project demonstrating automated Azure virt
 
 - Infrastructure as Code
 - Azure Virtual Machines
-- Terraform
 - Azure Networking
 - Resource Organization
-- Deployment Automation
 - Infrastructure Best Practices
 
 ---
