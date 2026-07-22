@@ -30,7 +30,7 @@ This portfolio reflects a progressive journey from infrastructure automation to 
 Azure Infrastructure
         │
         ▼
-Enterprise Networking
+Secure Connectivity
         │
         ▼
 Event-Driven Microservices
@@ -101,19 +101,22 @@ Key Architecture Concepts
 
 ---
 
-## 🌐 [Azure Hub-Spoke Network Architecture](https://github.com/IbNdah/azure-hub-spoke-network-architecture)
+## 🌐 [Azure Secure Connectivity](https://github.com/IbNdah/azure-secure-connectivity-architecture)
 
-An enterprise networking reference architecture implementing secure connectivity, centralized governance and workload isolation following Microsoft's Cloud Adoption Framework.
+Production-inspired Azure infrastructure demonstrating secure connectivity, high availability and Infrastructure as Code through enterprise networking and security best practices.
 
-**Key Architecture Concepts**
+Key Architecture Concepts
 
-- Hub-Spoke Topology
-- Network Segmentation
+- Infrastructure as Code (Biceps)
 - Azure Bastion
-- Network Security Groups
-- Centralized Security
-- Governance
-- Enterprise Connectivity
+- Azure Load Balancer
+- Availability Zones
+- Virtual Networks
+- Network Security Groups (NSG)
+- Secure Administrative Access
+- High Availability
+- Defense-in-Depth
+- Azure Networking
 
 ---
 
