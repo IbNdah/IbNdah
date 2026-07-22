@@ -116,13 +116,13 @@ An enterprise networking reference architecture implementing secure connectivity
 
 ## 🖥 [Azure VM Deployment Lab](https://github.com/IbNdah/azure-vm-deployment-lab)
 
-A foundational Infrastructure-as-Code project demonstrating automated Azure virtual machine deployments while introducing production-ready deployment and governance practices.
+A hands-on Azure infrastructure project demonstrating the deployment of a Windows Virtual Machine within a custom Virtual Network, following cloud infrastructure and networking best practices.
 
 **Key Architecture Concepts**
 
-- Infrastructure as Code
+- Microsoft Azure Infrastructure
 - Azure Virtual Machines
-- Azure Networking
+- Virtual Networks (VNet)
 - Resource Organization
 - Infrastructure Best Practices
 
