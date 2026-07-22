@@ -1,91 +1,197 @@
-# Ibrahim Ndah  
-Azure Solutions Architect | Security & Enterprise Architecture Focus  
-Building secure and governed Azure architectures for enterprise-scale environments.
----
+# Ibrahim Ndah
 
-## 🎯 Professional Positioning
+### Cloud Solutions Architect
 
-Certified Azure Solutions Architect (AZ-305) designing secure, enterprise-grade, and governance-aligned cloud architectures on Microsoft Azure.
+*Architecting secure, scalable and production-inspired cloud platforms on Microsoft Azure.*
 
-My focus is on building resilient, security-driven infrastructures that balance risk control, scalability, and operational maturity.
-
----
-
-## 🛡 Architecture Philosophy
-
-I approach cloud design with:
-
-- Security-first mindset  
-- Zero Trust principles  
-- Least privilege access strategy  
-- Defense-in-depth architecture  
-- Governance by design  
-- Cost-aware and scalable solutions  
-
-Cloud architecture is not only about deployment —  
-it is about controlling risk while enabling business growth.
+![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ---
 
-## 🏗 Featured Architecture Projects
+# 👋 About Me
 
-### 🔹 Azure Windows VM – Architecture Case Study  
-Single-tier infrastructure with security posture analysis and production improvement roadmap.  
-Includes logical design, risk assessment, and evolution strategy.
+I am a Cloud Solutions Architect with a background in the automotive industry and a passion for designing secure, scalable and production-inspired cloud architectures on Microsoft Azure.
 
-➡ https://github.com/IbNdah/azure-vm-deployment-lab  
+My GitHub is more than a collection of repositories—it is an engineering portfolio documenting my journey through enterprise cloud architecture, Infrastructure as Code, cloud-native applications and event-driven platforms.
 
----
-
-### 🔹 Hub-Spoke Network Architecture  
-Enterprise network baseline with centralized security model and segmentation strategy.  
-Designed to reflect scalable and governed enterprise environments.
-
-➡ https://github.com/IbNdah/azure-hub-spoke-network-architecture  
+Each repository represents a practical architecture case study, documenting architecture decisions, design trade-offs and implementation patterns inspired by real enterprise environments.
 
 ---
 
-## 🏢 Enterprise Design Perspective
+# 📌 Portfolio Overview
 
-When evaluating an architecture, I assess:
+This portfolio reflects a progressive journey from infrastructure automation to enterprise cloud architecture through production-inspired case studies.
 
-- Security exposure and attack surface  
-- Identity and access boundaries  
-- Network segmentation strategy  
-- Governance and policy enforcement  
-- Scalability constraints  
-- High availability requirements  
-- Monitoring and operational visibility  
-- Cost and sustainability impact  
-
----
-
-## 📌 Certifications
-
-- Microsoft Azure Solutions Architect Expert (AZ-305)  
-- Microsoft Azure Administrator (AZ-104)  
-
----
-
-## 🚀 Current Focus Areas
-
-- Advanced Network Security Architecture  
-- Private Endpoints & Secure Connectivity Patterns  
-- Azure Policy & Governance Enforcement  
-- Enterprise Landing Zone Design  
-- Zero Trust Network Segmentation  
+```text
+Infrastructure Automation
+          │
+          ▼
+Enterprise Networking
+          │
+          ▼
+Cloud-Native Applications
+          │
+          ▼
+Event-Driven Platforms
+          │
+          ▼
+Cloud Solution Architecture
+```
 
 ---
 
-## 📈 Ongoing Architecture Roadmap
+# 🏛 Architecture Philosophy
 
-- Secure multi-tier production architecture  
-- Policy-driven subscription governance model  
-- Secure workload isolation patterns  
-- Observability and threat detection integration  
+I believe cloud architecture is not only about deploying services—it is about designing platforms that remain secure, scalable, observable and maintainable throughout their lifecycle.
+
+Every architecture I design is guided by the following principles:
+
+- Security by Design
+- Governance First
+- Infrastructure as Code
+- Event-Driven Architecture
+- Observability First
+- Cloud-Native Services
+- Automation
+- Continuous Improvement
 
 ---
 
-## 📫 Connect
+# 🏗 Featured Projects
 
-LinkedIn: www.linkedin.com/in/ibrahim-ndah
+## 🚗 [EV Fleet Monitoring Platform](https://github.com/IbNdah/ev-fleet-monitoring-platform)
+
+An end-to-end Azure IoT platform simulating a connected electric vehicle fleet through a production-inspired event-driven architecture.
+
+**Key Architecture Concepts**
+
+- Azure IoT Hub
+- Azure Functions (Serverless)
+- MQTT Telemetry Pipeline
+- Event-Driven Architecture
+- Cosmos DB
+- Infrastructure as Code (Terraform)
+- End-to-End Observability
+- Azure Monitor
+- Application Insights
+- Grafana Dashboards
+
+---
+
+## 📚 [ReadIt – Azure Cloud Architecture](https://github.com/IbNdah/readit-azure-cloud-architecture)
+
+A cloud-native reference application demonstrating modern Azure application architecture with secure identity management, scalable backend services and cloud-native design principles.
+
+**Key Architecture Concepts**
+
+- Cloud-Native Application Design
+- Azure App Services
+- Azure SQL Database
+- Azure Storage
+- Secure Identity Management
+- Scalable Backend Architecture
+- Azure PaaS Services
+
+---
+
+## 🌐 [Azure Hub-Spoke Network Architecture](https://github.com/IbNdah/azure-hub-spoke-network-architecture)
+
+An enterprise networking reference architecture implementing secure connectivity, centralized governance and workload isolation following Microsoft's Cloud Adoption Framework.
+
+**Key Architecture Concepts**
+
+- Hub-Spoke Topology
+- Network Segmentation
+- Azure Bastion
+- Network Security Groups
+- Centralized Security
+- Governance
+- Enterprise Connectivity
+
+---
+
+## 🖥 [Azure VM Deployment Lab](https://github.com/IbNdah/azure-vm-deployment-lab)
+
+A foundational Infrastructure-as-Code project demonstrating automated Azure virtual machine deployments while introducing production-ready deployment and governance practices.
+
+**Key Architecture Concepts**
+
+- Infrastructure as Code
+- Azure Virtual Machines
+- Terraform
+- Azure Networking
+- Resource Organization
+- Deployment Automation
+- Infrastructure Best Practices
+
+---
+
+# 💻 Technical Expertise
+
+| Domain | Technologies |
+|---------|--------------|
+| ☁ **Cloud Platform** | Microsoft Azure, Azure Functions, Azure IoT Hub, Cosmos DB, Azure Monitor, Application Insights, Azure Key Vault |
+| ⚙ **Infrastructure & DevOps** | Terraform, GitHub Actions, Docker, Linux, Git |
+| 💻 **Development** | Python, REST APIs, MQTT, JSON, PowerShell |
+| 🏛 **Architecture** | Cloud Architecture, Infrastructure as Code, Event-Driven Systems, Cloud-Native Design, Enterprise Networking, Observability, Azure Well-Architected Framework |
+
+---
+
+# 🎓 Certifications
+
+- ✅ Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
+- ✅ Microsoft Certified: Azure Administrator Associate (AZ-104)
+- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
+
+---
+
+# 🚀 Currently Exploring
+
+I am currently expanding my expertise in:
+
+- Azure Landing Zones
+- Kubernetes (AKS)
+- Platform Engineering
+- Enterprise Architecture Patterns
+- FinOps
+- Azure Well-Architected Framework
+
+---
+
+# 📖 Engineering Portfolio
+
+This GitHub serves as an engineering portfolio showcasing production-inspired architecture case studies across:
+
+- Cloud Architecture
+- Infrastructure as Code
+- Enterprise Networking
+- Cloud-Native Applications
+- Event-Driven Systems
+- Observability
+- Technical Documentation
+- Architecture Decision Records (ADR)
+
+---
+
+# 🎯 Mission
+
+My objective is to continuously evolve as a Cloud Solutions Architect by designing production-inspired Azure solutions that combine architecture best practices, automation, security and operational excellence.
+
+I believe great architectures are built through continuous learning, thoughtful design decisions and clear technical documentation.
+
+---
+
+# 📫 Let's Connect
+
+- 💼 **LinkedIn**  
+  https://www.linkedin.com/in/ibrahim-ndah
+
+- 📧 **Email**  
+  ndah@web.de
+
+- 🌍 **Portfolio**  
+  *Coming Soon*
