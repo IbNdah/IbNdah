@@ -27,19 +27,19 @@ Each repository represents a practical architecture case study, documenting arch
 This portfolio reflects a progressive journey from infrastructure automation to enterprise cloud architecture through production-inspired case studies.
 
 ```text
-Infrastructure Automation
-          │
-          ▼
+Azure Infrastructure
+        │
+        ▼
 Enterprise Networking
-          │
-          ▼
-Cloud-Native Applications
-          │
-          ▼
-Event-Driven Platforms
-          │
-          ▼
-Cloud Solution Architecture
+        │
+        ▼
+Event-Driven Microservices
+        │
+        ▼
+Azure IoT Platforms
+        │
+        ▼
+Enterprise Cloud Architecture
 ```
 
 ---
@@ -84,17 +84,20 @@ An end-to-end Azure IoT platform simulating a connected electric vehicle fleet t
 
 ## 📚 [ReadIt – Azure Cloud Architecture](https://github.com/IbNdah/readit-azure-cloud-architecture)
 
-A cloud-native reference application demonstrating modern Azure application architecture with secure identity management, scalable backend services and cloud-native design principles.
+A production-inspired Azure microservices platform designed to explore event-driven architectures, distributed systems operations and cloud-native observability through hands-on engineering challenges.
 
-**Key Architecture Concepts**
+Key Architecture Concepts
 
-- Cloud-Native Application Design
-- Azure App Services
-- Azure SQL Database
-- Azure Storage
-- Secure Identity Management
-- Scalable Backend Architecture
-- Azure PaaS Services
+- Azure Kubernetes Service (AKS)
+- Event-Driven Microservices
+- Azure Service Bus
+- Infrastructure as Code (Terraform)
+- Kubernetes Operations
+- OpenTelemetry & Application Insights
+- Azure Monitor
+- Resilience & Dead Letter Queue (DLQ)
+- Cloud-native Observability
+- GitHub Actions CI/CD
 
 ---
 
